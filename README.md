@@ -14,5 +14,3 @@ Rock Paper Scissors : [![Binder](https://mybinder.org/badge_logo.svg)](https://m
 Probabilité et statistique
 
 <img src="img/1.JPG">
-<br>
-<img src="img/2.JPG">
