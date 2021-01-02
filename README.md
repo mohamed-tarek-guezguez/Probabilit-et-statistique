@@ -1,7 +1,9 @@
 # Probabilit-et-statistique
-Probabilité et statistique
 
 My Website / http://guezguez-tarek.me/
+<br>
+
+Probabilité et statistique
 
 <img src="img/1.JPG">
 <br>
