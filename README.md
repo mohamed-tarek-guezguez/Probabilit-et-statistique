@@ -9,6 +9,8 @@ TP2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 
 Rock Paper Scissors : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tarek2050/Probabilit-et-statistique/main?filepath=rockPaperScissors.ipynb)
 
+Rock Paper Scissors Simulation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tarek2050/Probabilit-et-statistique/main?filepath=rockPaperScissors%20Simulation.ipynb)
+
 <br/>
 
 Probabilité et statistique
